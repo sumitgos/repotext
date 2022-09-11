@@ -1,16 +1,1 @@
- Volume in drive D has no label.
- Volume Serial Number is 9250-F28A
-
- Directory of D:\cypress\Testing Project
-
-11-09-2022  19:59    <DIR>          .
-11-09-2022  19:59    <DIR>          ..
-06-07-2022  15:05    <DIR>          .vscode
-26-08-2022  14:59    <DIR>          cypress
-26-08-2022  12:05               207 cypress.config.js
-23-08-2022  18:27    <DIR>          node_modules
-23-08-2022  18:27           117,335 package-lock.json
-23-08-2022  18:27             4,514 package.json
-11-09-2022  19:59                 0 text1.txt
-               4 File(s)        122,056 bytes
-               5 Dir(s)  164,832,591,872 bytes free
+text to do 
